@@ -1,0 +1,58 @@
+[
+  {
+    "no": 1,
+    "ref": 23,
+    "first_author": "Andersen",
+    "doi": "10.1289/ehp.1408698",
+    "title": "A study of the combined effects of physical activity and air pollution on mortality in elderly urban residents: The Danish Diet, Cancer, and Health Cohort. Environ. Health Perspect",
+    "year": "2015"
+  },
+  {
+    "no": 2,
+    "ref": 24,
+    "first_author": "Elliott",
+    "doi": "10.1289/ehp7402",
+    "title": "Interaction between Long-Term Exposure to Fine Particulate Matter and Physical Activity, and Risk of Cardiovascular Disease and Overall Mortality in US Women. Environ. Health Perspect",
+    "year": "2020"
+  },
+  {
+    "no": 3,
+    "ref": 25,
+    "first_author": "Hankey",
+    "doi": "10.1289/ehp.1103806",
+    "title": "Health impacts of the built environment: Within-urban variability in physical inactivity, air pollution, and ischemic heart disease mortality. Environ. Health Perspect",
+    "year": "2012"
+  },
+  {
+    "no": 4,
+    "ref": 26,
+    "first_author": "Kubesch",
+    "doi": "10.1161/jaha.118.009554",
+    "title": "Effects of leisure-time and transport-related physical activities on the risk of incident and recurrent myocardial infarction and interaction with traffic-related air pollution: A cohort study. J. Am. Heart Assoc",
+    "year": "2018"
+  },
+  {
+    "no": 5,
+    "ref": 27,
+    "first_author": "Lin",
+    "doi": "10.1016/j.ecoenv.2021.112641",
+    "title": "Benefits of active commuting on cardiovascular health modified by ambient fine particulate matter in China: A prospective cohort study. Ecotoxicol. Environ. Saf",
+    "year": "2021"
+  },
+  {
+    "no": 6,
+    "ref": 28,
+    "first_author": "Marmett",
+    "doi": "10.1007/s10653-021-01194-5",
+    "title": "Exposure to O3 and NO2 in physically active adults: An evaluation of physiological parameters and health risk assessment. Environ. Geochem. Health",
+    "year": "2022"
+  },
+  {
+    "no": 7,
+    "ref": 29,
+    "first_author": "Liu",
+    "doi": "10.1016/j.ijheh.2015.01.003",
+    "title": "Effects of commuting mode on air pollution exposure and cardiovascular health among young adults in Taipei, Taiwan. Int. J. Hyg. Environ. Health",
+    "year": "2015"
+  }
+]

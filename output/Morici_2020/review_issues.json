@@ -1,0 +1,26 @@
+[
+  {
+    "level": "ERROR",
+    "field": "first_author",
+    "issue": "Required field is empty",
+    "value": "",
+    "row": 21,
+    "ref": 3
+  },
+  {
+    "level": "ERROR",
+    "field": "doi",
+    "issue": "Required field is empty",
+    "value": "",
+    "row": 21,
+    "ref": 3
+  },
+  {
+    "level": "ERROR",
+    "field": "title",
+    "issue": "Required field is empty",
+    "value": "",
+    "row": 21,
+    "ref": 3
+  }
+]
