@@ -19,9 +19,9 @@ env/
 Thumbs.db
 .DS_Store
 
-# PDFs (too large for git)
+# Project specific - PDFs are too large
 *.pdf
 
-# Temp Excel
+# Temp files
 ~$*.xlsx
 *.tmp
