@@ -1,0 +1,18 @@
+# 综述溯源 — 纳入文献提取与 PDF 原文下载工具
+# 安装: pip install -r requirements.txt
+
+# --- 核心（提取、下载、验证全都依赖）---
+pymupdf>=1.23            # fitz: PDF 文本/链接提取
+requests>=2.31           # 批量下载主链路
+beautifulsoup4>=4.12     # HTML 里找 citation_pdf_url / PDF 链接
+openpyxl>=3.1            # 读写既有 xlsx（标注状态列）
+pandas>=2.0              # 读信息表
+xlsxwriter>=3.1          # 写带配色的结果表（extract_included_studies 必需）
+                         # ← 原先 README 的安装命令漏了它，导致快速模式直接退出
+
+# --- 浏览器层（仅 Sci-Hub / Panda985 需要）---
+playwright>=1.40         # 连 Chrome CDP，还需: python -m playwright install chromium
+
+# --- 可选 ---
+# pdfplumber>=0.10       # extract_full_table 的表格网格检测（当前 Layer1 未接入，装不装都不影响）
+# pytest>=7.0            # 跑 tests/ 下的单元测试

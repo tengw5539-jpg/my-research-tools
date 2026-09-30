@@ -1,0 +1,42 @@
+# 领域停用词 —— 每行一个，# 开头为注释
+# 这些词会从「标题关键词」里剔除，避免用无区分度的噪声词去比对 PDF 正文。
+# 换课题时清空/替换本文件即可，不要把领域词写死进脚本。
+#
+# 内容来自本项目此前硬编码在 scihub_batch.py / panda985_search.py /
+# verify_merged.py 里的那份「空气污染 × 运动 × 健康」课题词表。
+
+effect
+effects
+exercise
+physical
+activity
+during
+study
+subjects
+response
+responses
+inhalation
+pulmonary
+function
+exposure
+human
+healthy
+young
+adult
+and
+with
+the
+from
+air
+pollution
+for
+of
+ozone
+volunteers
+chronic
+obstructive
+patients
+exposed
+varied
+measurements
+measured

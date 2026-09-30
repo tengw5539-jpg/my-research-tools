@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Environment
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Project specific - PDFs are too large
+*.pdf
+
+# Temp files
+~$*.xlsx
+*.tmp
+
+# Python tooling caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Project specific - downloaded PDFs and derived outputs are large
+output/**/pdfs/*.pdf
+*.pdf
+
+# Sync backups produced by scripts/sync_scripts.py
+scripts/**/_backup/
+**/_backup/
+*.bak

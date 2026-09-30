@@ -25,3 +25,17 @@ Thumbs.db
 # Temp Excel
 ~$*.xlsx
 *.tmp
+
+# WorkBuddy 工作区数据（含会话记忆/本地笔记，不入库）
+.workbuddy/
+
+# 运行时产出：下载进度含本机绝对路径，且可用 reconcile_progress.py 重建
+**/download_progress.json
+**/download_progress.json.bak
+
+# sync_scripts.py 的覆盖备份
+**/_backup/
+*.bak
+
+# 历史脚本备份目录（本地留存即可，不入库）
+**/scripts_backup_*/
